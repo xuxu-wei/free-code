@@ -20,6 +20,8 @@
 
 ---
 
+> This public repository is an independently published fork of [paoloanzn/free-code](https://github.com/paoloanzn/free-code) and keeps that source attribution explicit here.
+
 ## Quick Install
 
 ```bash
